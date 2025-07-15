@@ -51,7 +51,7 @@ This project explores how signal processing and machine learning can be combined
 
 ---
 
-## ▶ How to Run
+##  How to Run
 
 ### 1. Install dependencies
 
