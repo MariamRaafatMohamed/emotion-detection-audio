@@ -1,4 +1,4 @@
-# 🎧 Emotion Detection from Speech (Multimedia Project)
+#  Emotion Detection from Speech (Multimedia Project)
 
 This project explores how signal processing and machine learning can be combined to detect human emotions from speech using the EMO-DB dataset.
 
