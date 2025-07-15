@@ -51,6 +51,35 @@ This project explores how signal processing and machine learning can be combined
 
 ---
 
+
+### 🎧 Sample Visualizations
+
+####  MFCC
+![MFCC](MFCC.png)
+
+####  Original Audio
+![Waveform](Waveform.png)
+![FFT](fft.png)
+
+#### ⏩ Time-Stretched Audio
+![Waveform](Time-Stretched.pngg)
+
+####  Pitch-Shifted Audio
+![Waveform](pitch.pngg)
+
+####  Equalized Audio
+![Waveform](equalized.png)
+
+####  Denoised Audio
+![Waveform](denoised.png)
+
+#### 📈 Pitch & Energy Features
+![Pitch](pitch_plot.png)
+![Energy](energy_plot.png)
+
+---
+
+
 ##  How to Run
 
 ### 1. Install dependencies
