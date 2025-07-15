@@ -1,0 +1,7 @@
+```txt
+librosa
+soundfile
+matplotlib
+noisereduce
+scikit-learn
+numpy
