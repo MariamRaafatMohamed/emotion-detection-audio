@@ -72,7 +72,7 @@ This project explores how signal processing and machine learning can be combined
 ---
 ### MLP Accuracy
 - **77.57%**
-
+---
 
 ##  How to Run
 
