@@ -4,15 +4,6 @@ This project explores how signal processing and machine learning can be combined
 
 ---
 
-##  Team Members
-
-- Mariam Raafat  
-- Engy Refaai  
-- Alyaa Tamer  
-- Soher Mohamed
-
----
-
 ##  Project Objectives
 
 - Preprocess and clean raw audio signals
