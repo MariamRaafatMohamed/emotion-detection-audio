@@ -2,14 +2,6 @@
 
 This project explores how signal processing and machine learning can be combined to detect human emotions from speech using the EMO-DB dataset.
 
----
-
-##  Team Members
-
-- Mariam Raafat  
-- Engy Refaai  
-- Alyaa Tamer  
-- Soher Mohamed
 
 ---
 
